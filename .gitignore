@@ -1,0 +1,5 @@
+
+*.dll
+NeonTools/bin/*
+NeonTools/obj/*
+.vs/*
